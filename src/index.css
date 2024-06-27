@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+p,
+a,
+span {
+  font-family: 'Montserrat', sans-serif;
+}
+
